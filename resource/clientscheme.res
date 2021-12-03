@@ -3028,8 +3028,73 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		//////////////////// NYUHUD FONTS //////////////////////////
+		"Comfortaa_Regular12"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular16"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular24"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular32"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular36"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular42"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		"Comfortaa_Regular48"
+		{
+			"1"
+			{
+				"name"		"Comfortaa Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
-
+	
+		
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5838,6 +5903,21 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font" "resource/fonts/Comfortaa-Bold.ttf"
+			"name" "Comfortaa Bold"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Comfortaa-Light.ttf"
+			"name" "Comfortaa Light"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Comfortaa-Regular.ttf"
+			"name" "Comfortaa Regular"
 		}
 	}
 }
